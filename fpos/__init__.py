@@ -1,0 +1,14 @@
+import account
+import account_bank_statement
+import fpos_top
+import point_of_sale
+import res_users
+import product
+import fpos
+import wizard
+import report
+import res_partner
+import controller
+import invoice
+import pos_order_report
+import fpos_post_task
