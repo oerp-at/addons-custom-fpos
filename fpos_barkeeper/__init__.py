@@ -1,2 +1,2 @@
-import controller
-import point_of_sale
+from . import controller
+from . import point_of_sale

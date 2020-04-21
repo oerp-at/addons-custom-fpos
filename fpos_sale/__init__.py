@@ -1,5 +1,5 @@
-import partner
-import sale
-import wizard
-import fpos
-import invoice
+from . import partner
+from . import sale
+from . import wizard
+from . import fpos
+from . import invoice
